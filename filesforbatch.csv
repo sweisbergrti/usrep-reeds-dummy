@@ -1,0 +1,13 @@
+inputs/test_inputs1.csv
+inputs/test_inputs2.csv
+inputs/capacitydata/capacity_exog_wind.py
+inputs/capacitydata/ExistingUnits_EIA-NEMS.gdx
+a_writedata.gms
+d_solvereeds.gms
+e_report.gms
+e_report_dump.gms
+CreateModel.gms
+cases.csv
+run.bat
+gamslice.txt
+python_log.txt
