@@ -1,0 +1,32 @@
+USREP RefRen curyr=2006 it=0 
+.
+ReEDS RefRen curyr=2010 it=0 
+USREP RefRen curyr=2010 it=0 
+.
+ReEDS RefRen curyr=2015 it=0 
+USREP RefRen curyr=2015 it=0 
+.
+ReEDS RefRen curyr=2020 it=0 
+USREP RefRen curyr=2020 it=0 
+.
+ReEDS RefRen curyr=2025 it=0 
+USREP RefRen curyr=2025 it=0 
+.
+ReEDS RefRen curyr=2030 it=0 
+USREP RefRen curyr=2030 it=0 
+.
+ReEDS RefRen curyr=2035 it=0 
+USREP RefRen curyr=2035 it=0 
+.
+ReEDS RefRen curyr=2040 it=0 
+USREP RefRen curyr=2040 it=0 
+.
+ReEDS RefRen curyr=2045 it=0 
+USREP RefRen curyr=2045 it=0 
+.
+ReEDS RefRen curyr=2050 it=0 
+USREP RefRen curyr=2050 it=0 
+.
+writing report in GDX format 
+writing dumping report to csv 
+Successfully ran model iterations and wrote reports. That's it! That's the end. Good job. 

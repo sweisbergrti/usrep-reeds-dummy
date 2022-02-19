@@ -1,0 +1,10 @@
+Successfully imported python packages in runbatch.py
+[0. 0. 0. 0. 0.]
+Successfully used imported python packages in runbatch.py
+Successfully received user input in runbatch.py
+Successfully called calc_financial_inputs.py from runbatch.py
+Successfully did some data processing in calc_financial_inputs.csv
+Successfully called calc_financial_inputs.py from runbatch.py
+Successfully copied some files into the runs/ directory
+Successfully wrote some lines to a .bat file from runbatch.py
+Successfully called the batchfile from runbatch.py. I think that means we're done with the Python stuff!

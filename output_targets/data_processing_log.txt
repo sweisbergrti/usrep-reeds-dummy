@@ -1,0 +1,40 @@
+[1] "Starting calculation of fuelcostprep.R"
+[1] "C:\\Users\\sweisberg\\documents\\usrep_reeds\\usrep-reeds-dummy\\runs\\v20220218_195256_dummy\\\\\\inputs_case\\\\"
+[1] "testflag"
+[1] "fuelcostprep.R completed successfully"
+Testing reading data from GDX in Python
+C:\Users\sweisberg\Documents\USREP_REEDS\USREP-ReEDS-dummy\runs\v20220218_195256_dummy
+----------------------------------
+    *     *  Value
+0  20  none    3.5
+1  33  none  399.8
+2  31  none    3.2
+3  40  none   68.5
+4  57  none    2.5
+-----------------------------------
+       *  Value
+0    p10  14.56
+1   p122   3.12
+2   p126  19.50
+3    p28   3.77
+4    p29   4.81
+5    p33   6.11
+6    p34   3.25
+7     p9  23.14
+8    p98   4.16
+9     p1   0.65
+10   p30   3.90
+----------------------------------------------
+       *  Value
+0    p10  14.56
+1   p122   3.12
+2   p126  19.50
+3    p28   3.77
+4    p29   4.81
+5    p33   6.11
+6    p34   3.25
+7     p9  23.14
+8    p98   4.16
+9     p1   0.65
+10   p30   3.90
+Successfully read data from GDX into csv in Python
