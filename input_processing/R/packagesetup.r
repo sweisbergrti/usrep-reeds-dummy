@@ -5,6 +5,6 @@ print("")
 list.of.packages <- c('dplyr','data.table')
 
 new.packages <- list.of.packages[!(list.of.packages %in% installed.packages()[,"Package"])]
-if(length(new.packages)) install.packages(new.packages,repos = "http://cran.rstudio.com/", dep = TRUE)
+if(length(new.packages)) install.packages(new.packages,repos = "http://cran.rstudio.com/", dep = TRUE, type = "binary")
 
 print("Finished installing packages")
